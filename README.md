@@ -169,7 +169,6 @@ Me chamo Thiago Neves, tenho 21 anos, sou da cidade Almenara-MG, apaixonado por 
 
 <br/>
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
