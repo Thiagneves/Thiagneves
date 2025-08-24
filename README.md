@@ -9,14 +9,14 @@ Me chamo Thiago Neves, tenho 21 anos, sou da cidade Almenara-MG, apaixonado por 
 <p align=>
   <a href="https://github.com/Thiagneves?tab=repositories">
   <img alt = "Meu repositorio" title = "Meus repositorios" 
-    src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/> </a>
-  <a href="https://www.instagram.com/thiag.neves/">
-    <img alt = "Meu Instagram" title = "Meu Instagram" 
-    src="https://custom-icon-badges.demolab.com/badge/-thiag.neves-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/thiago-neves-sousa-996a92322" target="_blank">
-    <img alt = "Meu Linkedin" title = "Meu Linkedin" src="https://img.shields.io/badge/-📖 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="http://lattes.cnpq.br/8236643244213363/">
-    <img alt = "Meu curriculo lattes" title = "Meu Curriculo Lattes" src="https://custom-icon-badges.demolab.com/badge/-👜 Lattes-gren?style=for-the-badge"/></a>
+  src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/> </a>
+  <a href="https://www.youtube.com/@EuThiagoNeves">
+  <img alt = "Meu Youtube" title = "YouTube" 
+  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thiago-neves-sousa-996a92322" target="_blank">
+  <img alt = "Meu Linkedin" title = "Meu Linkedin" src="https://img.shields.io/badge/-📖 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://lattes.cnpq.br/8236643244213363/">
+  <img alt = "Meu curriculo lattes" title = "Meu Curriculo Lattes" src="https://custom-icon-badges.demolab.com/badge/-👜 Lattes-gren?style=for-the-badge"/></a>
 </p>
 
 ---
