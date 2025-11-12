@@ -13,7 +13,7 @@ Me chamo Thiago Neves, tenho 21 anos, sou da cidade Almenara-MG, apaixonado por 
   <a href="https://www.youtube.com/@EuThiagoNeves">
   <img alt = "Meu Youtube" title = "YouTube" 
   src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/thiago-neves-sousa-996a92322" target="_blank">
+  <a href="https://www.linkedin.com/in/thiagneves" target="_blank">
   <img alt = "Meu Linkedin" title = "Meu Linkedin" src="https://img.shields.io/badge/-📖 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="http://lattes.cnpq.br/8236643244213363/">
   <img alt = "Meu curriculo lattes" title = "Meu Curriculo Lattes" src="https://custom-icon-badges.demolab.com/badge/-👜 Lattes-gren?style=for-the-badge"/></a>
