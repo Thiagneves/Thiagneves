@@ -2,7 +2,7 @@
 
 **`Análista e Desenvolvedor de Sistema`**  
 
-Me chamo Thiago Neves, tenho 21 anos, sou da cidade Almenara-MG, apaixonado por **Programação** e **Tecnologia**, atualmente faço o curso **Análise e Desenvolvimento de Sistema** pelo **Instituto Federal do Norte de Minas Gerais | Campus Almenara-MG**.
+Me chamo Thiago Neves, tenho 22 anos, sou da cidade Almenara-MG, apaixonado por **Programação** e **Tecnologia**, atualmente faço o curso **Análise e Desenvolvimento de Sistema** pelo **Instituto Federal do Norte de Minas Gerais | Campus Almenara-MG**.
 
 🎯 Objetivos: **Engenheiro de Software** | **Segurança de Dados**, contribuindo para soluções criativas, seguras e inovadoras. 🚀
 
